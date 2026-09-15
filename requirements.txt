@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+geopandas
+psycopg2-binary
+sqlalchemy
