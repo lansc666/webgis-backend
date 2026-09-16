@@ -1,5 +1,12 @@
 fastapi
-uvicorn
+uvicorn[standard]
 geopandas
 psycopg2-binary
 sqlalchemy
+python-multipart
+python-dotenv
+shapely
+pyproj
+fiona
+pytest
+httpx
